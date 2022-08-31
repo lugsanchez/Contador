@@ -1,6 +1,5 @@
 body {
     font-family: sans-serif;
-    background-color: #28297a;
     margin-block-end: 4%;
 }
 
@@ -8,13 +7,13 @@ body {
     display: flex;
     justify-content: space-between;
     padding: 0% 41% 0% 42%;
-    background-color: #398eaf;
+    background-color: #ffffff;
     height: 130px;
   }
 
 .contenedor1 {
     margin-top: 13%;
-    background-color: #0c204b; 
+    background-color: #7aa4ff;
     border-radius: 50px;
     height: 45px;
     width: 45px;
@@ -32,10 +31,10 @@ body {
 }
 
 h1{
-      display: flex;
-      justify-content: center;
-      margin-top: 35px;
-      color: #0c204b;
+    display: block;
+    justify-content: center;
+    color: #0c204b;
+    margin: auto;
 }
   
 h3{
@@ -59,11 +58,12 @@ h4{
 }
   
 .contenedor2 {
-    background-color:  rgb(68, 153, 186);
-    width: 46%;
-    margin-left: 27%;
-    margin-top: -3%;  
+    background-color: rgb(122, 164, 255);
+    width: 33%;
     text-align: center;
+    display: block;
+    margin: auto;
+    border-radius: 35px;
 }
 
 .coment{
